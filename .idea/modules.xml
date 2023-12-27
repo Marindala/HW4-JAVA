@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW4.iml" filepath="$PROJECT_DIR$/.idea/HW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio-list-taskList/ejercicio-list-taskList.iml" filepath="$PROJECT_DIR$/ejercicio-list-taskList/ejercicio-list-taskList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio-map-studentRecord/ejercicio-map-studentRecord.iml" filepath="$PROJECT_DIR$/ejercicio-map-studentRecord/ejercicio-map-studentRecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio-set-partyGuestList/ejercicio-set-partyGuestList.iml" filepath="$PROJECT_DIR$/ejercicio-set-partyGuestList/ejercicio-set-partyGuestList.iml" />
+    </modules>
+  </component>
+</project>
